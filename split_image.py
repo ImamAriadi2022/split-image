@@ -48,7 +48,7 @@ def get_user_input():
     print("-" * 40)
     print("Pilih mode pemotongan:")
     print("1. Berdasarkan PIXEL (contoh: 640x480 pixel)")
-    print("2. Berdasarkan RASIO (contoh: 1:1, 16:9, 4:3)")
+    print("2. Berdasarkan RASIO (contoh: 1:1, 16:9, 4:3) untuk feed 4:5")
     
     while True:
         try:
